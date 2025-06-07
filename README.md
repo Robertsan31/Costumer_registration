@@ -1,8 +1,6 @@
 Sistema de Cadastro de Clientes
 Um sistema web completo e funcional para a gestão de clientes, desenvolvido com Python e Django. Este projeto demonstra um ciclo de desenvolvimento completo, desde a criação da base de dados e funcionalidades essenciais até à implantação (deployment) num ambiente de produção.
 
-Clique aqui para ver o projeto online!
-
 🚀 Funcionalidades Principais
 Este sistema possui todas as funcionalidades essenciais para uma gestão de clientes (CRUD), com uma interface limpa e responsiva.
 
